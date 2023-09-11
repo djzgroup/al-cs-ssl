@@ -1,7 +1,5 @@
 # Active Learning with Core-set Sampling and Scale-sensitive Loss for 3D Object Detection
 
-Implementation of [Title]()
-
 # Requirements
 
 ## Installation
